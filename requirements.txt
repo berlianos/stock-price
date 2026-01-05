@@ -1,0 +1,5 @@
+fastapi==0.95.1
+httpx==0.24.0
+beautifulsoup4==4.12.2
+lxml==4.9.2
+zoneinfo==0.2.1
